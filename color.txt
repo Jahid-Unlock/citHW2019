@@ -1,0 +1,2 @@
+no 1 : #2570FF
+-webkit-linear-gradient(40deg, #006cea 0%, #27c1fa 100%);
